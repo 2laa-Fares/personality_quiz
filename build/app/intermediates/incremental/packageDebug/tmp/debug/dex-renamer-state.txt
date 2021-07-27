@@ -1,0 +1,4 @@
+#Tue Jul 27 17:46:56 EET 2021
+base.0=E\:\\Flutter\\personality_quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
